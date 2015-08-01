@@ -4,7 +4,7 @@
  
 #include "FastLED.h"
  
-#define NUM_LEDS 100 // Max LED count
+#define NUM_LEDS 50 // Max LED count
 #define LED_PIN 11 // arduino output pin - probably not required for WS2801
 #define GROUND_PIN 10 // probably not required for WS2801
 #define BRIGHTNESS 96 // maximum brightness
